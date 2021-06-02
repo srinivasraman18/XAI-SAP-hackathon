@@ -1,0 +1,15 @@
+ 
+{"x_train_path":"datasets/credit_card/x_train.npy",
+"x_test_path":"datasets/credit_card/x_test.npy",
+"model_path":"models/credit_card/logistic_regression.sav",
+"datatype":"numeric",
+"vectorizer_path":"model/sap/train_vectorizer",
+"algorithm":"shap",
+"feature_names":"datasets/credit_card/feature_names.npy",
+"datatype":"numeric",
+"explanation_type":"",
+"indices":[0,1,2],
+"output_dir":"output/credit_card"
+}
+
+
